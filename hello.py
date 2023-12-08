@@ -1,2 +1,3 @@
 print("first")
-print("seconde")
+print("second")
+print("third")
